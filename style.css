@@ -1,0 +1,17 @@
+body {
+    background-color: #57585c;
+    color: #d0d1cc;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+a {
+    color: black;
+}
+
+li {
+    color: black;
+}
+
+#pic {
+    border: 3px solid black;
+}
